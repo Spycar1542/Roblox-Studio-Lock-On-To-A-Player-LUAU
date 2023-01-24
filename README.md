@@ -18,3 +18,5 @@ The Current Set Binding Is P.
 𝙀𝙣𝙟𝙤𝙮!
 𝙀𝙣𝙟𝙤𝙮!
 𝙀𝙣𝙟𝙤𝙮!
+
+NOTE: THIS HAS R6 AND R15 SUPPORT
